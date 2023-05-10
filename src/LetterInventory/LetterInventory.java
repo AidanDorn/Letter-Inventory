@@ -2,7 +2,7 @@ package LetterInventory;
 /*
 Aidan Dorn
 CS 145
-May 9th, 2023
+May 8th, 2023
  */
 public class LetterInventory {
     private int size;
